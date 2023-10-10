@@ -96,3 +96,22 @@ section {
 #winter {
     background-image: url(media/winter.jpg);
 }
+
+footer {
+    padding: 4rem;
+}
+
+/* descendent selector */
+footer ul {
+    list-style-type: none;
+    padding: 0;
+    outline: 1px solid red;
+}
+
+footer li {
+    outline: 1px solid blue;
+}
+
+footer img {
+    display: block;
+}
