@@ -74,21 +74,25 @@ h1 {
 }
 
 section {
-
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 #spring {
-
+    background-image: url(media/spring.jpg);
 }
 
 #summer {
-
+    background-image: url(media/summer.jpg);
 }
 
 #autumn {
-
+    background-image: url(media/autumn.jpg);
 }
 
 #winter {
-    
+    background-image: url(media/winter.jpg);
 }
