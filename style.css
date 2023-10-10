@@ -7,9 +7,6 @@
 
 :root {
     font-size: 18px;
-}
-
-body {
     font-family: Ubuntu, sans-serif;
 }
 
@@ -74,4 +71,24 @@ h1 {
     font-size: 2.8rem;
     text-transform: uppercase;
     letter-spacing: 6px;
+}
+
+section {
+
+}
+
+#spring {
+
+}
+
+#summer {
+
+}
+
+#autumn {
+
+}
+
+#winter {
+    
 }
